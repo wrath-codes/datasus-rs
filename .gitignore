@@ -119,3 +119,6 @@ Cargo.lock
 # Uncomment to ignore the Cargo.toml and Cargo.lock files in your project's target directory
 # target/
 # */target/
+
+# Reference Projects
+eco-data/
